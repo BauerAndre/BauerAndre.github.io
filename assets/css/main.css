@@ -1297,3 +1297,11 @@ h6 {
 .footer .credits a {
   color: var(--color-primary);
 }
+
+.skillogo {
+  color: #474a4d;
+}
+
+.skillogo:hover {
+  color: rgb(171, 168, 168);
+}
